@@ -1,3 +1,4 @@
+import './styles/app.css'
 import logo from './logo.svg';
 import './App.css';
 
