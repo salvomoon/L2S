@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "prima-app",
+=======
+  "name": "l2s-app",
+>>>>>>> 3552ef43bb97c2310456fe242aed0b70c04a0359
   "version": "0.1.0",
   "private": true,
   "dependencies": {
